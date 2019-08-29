@@ -2,6 +2,8 @@
 
 持续集成
 
+来源:[自动化测试开发框架My-Test-Automation-Frameworks](https://github.com/Gavinwhy/My-Test-Automation-Frameworks)
+
 # 持续集成的实施过程
 
 ## 输入
